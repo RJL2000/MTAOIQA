@@ -9,7 +9,7 @@ Omnidirectional image quality assessment (OIQA) has been widely investigated in 
 
 ![image.png](images/model.jpg)
 
-## hammer_and_wrench: Usage
+## :hammer_and_wrench: Usage
 
 ### Training MTAOIQA
 Then, you can select the corresponding training and test files under the file/JUFE-10K folder.
