@@ -12,15 +12,15 @@ Omnidirectional image quality assessment (OIQA) has been widely investigated in 
 ## :hammer_and_wrench: Usage
 
 ### Training MTAOIQA
-Then, you can select the corresponding training and test files under the file/JUFE-10K folder.
+Then, you can select the corresponding training and test files under the file/JUFE-10K or OIQ-10K folder.
 
-Modify the configuration in code/MTAOIQA_config.py
+Modify the configuration in code/config_mta.py
 
 - Modify "dataset_name" to choose which datasets you want to train in config
 - Modify training and test dataset path
 
 ```
-sh mtaoiqa_train_run.sh
+sh mta_train_run.sh
 ```
 
 ## Citation
